@@ -1,2 +1,2 @@
 # Will303
-I put games here.
+Just a random novice progammer, trying to learn 4 languages. Enjoy.
